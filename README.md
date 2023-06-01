@@ -33,13 +33,6 @@ Just select any combination from the GUI and get the desired result :)
 * Save a lot of time
 * Don't have to maintain different python/jupyter notebook files for different combinations
 
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
-
-### Technology/Language:
-Python, PyQT, Pandas, Numpy, Scikit-Learn, Matplotlib
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Appendix (More Screenshots of the tool):
@@ -54,3 +47,4 @@ Python, PyQT, Pandas, Numpy, Scikit-Learn, Matplotlib
 ![ML-GUI-SoftwareFaultDetection](https://github.com/grpranto/ML-GUI-software-fault-detection/blob/main/screenshots/interface5.PNG?raw=true)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
