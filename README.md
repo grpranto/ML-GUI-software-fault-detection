@@ -1,4 +1,12 @@
 <a name="readme-top"></a>
+<p float="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+</p>
+
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 This machine learning project is a part of my Bachelor thesis and [publication](https://link.springer.com/chapter/10.1007/978-3-030-33709-4_5) with the goal of checking the effect of feature selection methods in software fault detection. The GUI saved a lot of time during our research as it is capable of generating any combinations of results
@@ -25,18 +33,12 @@ Just select any combination from the GUI and get the desired result :)
 * Save a lot of time
 * Don't have to maintain different python/jupyter notebook files for different combinations
 
-<!--
-Here is an example to make a badge:
-https://img.shields.io/badge/<your label>-<value>-<background color>.svg?&style=for-the-badge&logo=<icon here>
-
-For example: https://img.shields.io/badge/twitter-mohammed__16695-1da1f2.svg?&style=for-the-badge&logo=twitter 
-You can find all available icons (https://simpleicons.org/) and badge options (https://shields.io/) at the end of the page.
--->
+<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 
 ### Technology/Language:
 Python, PyQT, Pandas, Numpy, Scikit-Learn, Matplotlib
 
-<!--<img src="https://img.shields.io/badge/twitter-mohammed__16695-1da1f2.svg?&style=for-the-badge&logo=twitter">-->
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
