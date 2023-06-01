@@ -4,7 +4,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is a part of my Bachelor thesis and [publication](https://link.springer.com/chapter/10.1007/978-3-030-33709-4_5) with the goal of checking the effect of feature selection methods in software fault detection. The GUI saved a lot of time during our research as it is capable of generating any combinations of results
+This machine learning project is a part of my Bachelor thesis and [publication](https://link.springer.com/chapter/10.1007/978-3-030-33709-4_5) with the goal of checking the effect of feature selection methods in software fault detection. The GUI saved a lot of time during our research as it is capable of generating any combinations of results
 
 The GUI consists of: 
 * five classifiers: `Decision Tree`, `Random Forest`, `Naïve Bayes`, `Logistic Regression`, `Neural Network`
