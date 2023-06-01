@@ -4,21 +4,24 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is a part of my Bachelor thesis and [publication](https://link.springer.com/chapter/10.1007/978-3-030-33709-4_5) with the goal of checking the effect of feature selection methods in software fault detection. The experiment discovers that the most important and relevant features can be selected by the adopted feature selection techniques without sacrificing the performance of fault detection.
+This project is a part of my Bachelor thesis and [publication](https://link.springer.com/chapter/10.1007/978-3-030-33709-4_5) with the goal of checking the effect of feature selection methods in software fault detection. The GUI saved a lot of time during our research as it is capable of generating any combinations of results
 
 The GUI consists of: 
 * five classifiers: `Decision Tree`, `Random Forest`, `Naïve Bayes`, `Logistic Regression`, `Neural Network`
-* five feature selection techniques: `Information Gain`, `Relief`, `Chi-Square`, `Chi-square Test of Independence`, Feature Importance`
+* five feature selection techniques: `Information Gain`, `Relief`, `Chi-Square`, `Chi-square Test of Independence`, `Feature Importance`
 * five datasets: NASA’s benchmark publicly available datasets
 
-We can choose any of the combinations of the mentioned classifiers and feature selection technique. For example, we can take the `Logistic Regression` as classifier and `Information gain` as feature selection technique. Then we can compute the result only for that combination. Result includes calculating accuracy, computing confusion matrix, generating ROC curve, etc. 
+Result includes: `accuracy`, `confusion matrix`, `ROC curve`
+
+The GUI can be used in multiple ways. We can choose any of the classifiers without feature selection and check the result. We can also choose classifiers along with feature selection technique. For example, at fist step, we can only take the `Logistic Regression` as classifier and see the result. At second step, we can take the `Logistic Regression` as classifier along with the feature selection technique `Information gain` and produce the result. After compairing the results we can easily understand if there is any effect of the feature selection technique in software fault detection.
 
 
 ### What is the advantage? 
-Total combinations possible = 5 classifiers * 5 feature selection techniques * datasets = 125
+Total combinations possible = 5 classifiers * 5 feature selection techniques * 5 datasets = 125
 
 Just select any combination from the GUI and get the desired result :)
 
+* Compare the result of `classifier alone` vs `classifer with feature selection technique`
 * User Friendly
 * Save a lot of time
 * Don't have to maintain different python/jupyter notebook files for different combinations
