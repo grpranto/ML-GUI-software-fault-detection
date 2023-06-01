@@ -13,7 +13,7 @@ The GUI consists of:
 
 Result includes: `accuracy`, `confusion matrix`, `ROC curve`
 
-The GUI can be used in multiple ways. We can choose any of the classifiers without feature selection and check the result. We can also choose classifiers along with feature selection technique. For example, at fist step, we can only take the `Logistic Regression` as classifier and see the result. At second step, we can take the `Logistic Regression` as classifier along with the feature selection technique `Information gain` and produce the result. After compairing the results we can easily understand if there is any effect of the feature selection technique in software fault detection.
+The GUI can be used in multiple ways. We can choose any of the classifiers without feature selection and check the result. We can also choose classifiers along with feature selection technique. For example, at fist step, we can only take the `Logistic Regression` as classifier and see the result. At second step, we can take the `Logistic Regression` as classifier along with the feature selection technique `Information gain` and produce the result. After compairing the results, we can easily reach to a conclusion if there is any effect of the feature selection technique in software fault detection.
 
 
 ### What is the advantage? 
